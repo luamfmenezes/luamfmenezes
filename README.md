@@ -1,4 +1,4 @@
-# Hi there
+# Hi there 👋
 
 I'm a Fullstack developer with 2+ years of experience and a technology enthusiast that love create solution and make the life easier with code.
 

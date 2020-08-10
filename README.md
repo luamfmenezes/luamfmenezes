@@ -1,11 +1,11 @@
 # Hi there 👋
 
-I'm a Fullstack developer with 2+ years of experience and a technology enthusiast that love create solution and make the life easier with code.
+I'm a Fullstack developer with 2+ years of experience and a technology enthusiast who loves to create solutions and make life easier with code.
 
-I hope to meet as many place as possible in the world 🌎
+I hope to travel as many places as possible in the world 🌎
 
 * 🔭 I’m currently working on Typescript/Javascript, ReactJS, React-Native and Nodejs.
-* 🌱 I’m currently studing Electron and UI/UX.
+* 🌱 I’m currently studying Electron and UI/UX.
 * ⚡ Available for Freelance projects.
 
 ## 📫 Reach me at

@@ -5,7 +5,7 @@ I'm a Fullstack developer with 2+ years of experience and a technology enthusias
 I hope to travel as many places as possible in the world 🌎
 
 * 👨‍💻 I’m currently working on Typescript/Javascript, ReactJS, React-Native and Nodejs.
-* 🌱 I’m currently studying: NestJS, NextJS and UI/UX.
+* 🌱 I’m currently studying: DDD, Kafka.
 * ⚡ Available for Freelance projects.
 
 ## 📫 Reach me at

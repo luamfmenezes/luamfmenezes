@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Fullstack developer with 2+ years of experience and a technology enthusiast who loves to create solutions and make life easier with code.
+I'm a Fullstack developer with 3+ years of experience and a technology enthusiast who loves to create solutions and make life easier with code.
 
 I hope to travel as many places as possible in the world 🌎
 

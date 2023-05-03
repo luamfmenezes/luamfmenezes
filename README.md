@@ -1,12 +1,6 @@
 # Hi there 👋
 
-I'm a Fullstack developer with 3+ years of experience and a technology enthusiast who loves to create solutions and make life easier with code.
 
-I hope to travel as many places as possible in the world 🌎
-
-* 👨‍💻 I’m currently working on Typescript/Javascript, ReactJS, React-Native and Nodejs.
-* 🌱 I’m currently studying: Clean architecture and WebRTC.
-* ⚡ Available for Freelance projects.
 
 ## 📫 Reach me at
 
